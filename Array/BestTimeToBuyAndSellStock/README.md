@@ -1,4 +1,5 @@
 ### Best Time to Buy and Sell Stock II
+[**Solution**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.js)  
 
 You are given an integer array ```prices``` where ```prices[i]``` is the price of a given stock on the ```ith``` day.
 

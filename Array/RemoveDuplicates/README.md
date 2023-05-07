@@ -1,4 +1,5 @@
 ### Remove Duplicates from Sorted Array
+[**Solution**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/RemoveDuplicates/Remove%20Duplicates%20from%20Sorted%20Array.js)  
 
 Given an integer array ```nums``` sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in ```nums```.
 
