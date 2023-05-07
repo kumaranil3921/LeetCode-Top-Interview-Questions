@@ -5,3 +5,4 @@
 * [Best Time to Buy and Sell Stock II](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.js)
 * [Rotate Array](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/RotateArray/RotateArray.js)
 * [Contains Duplicate](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/ContainsDuplicate/ContainsDuplicate.js) 
+* [Single Number](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/SingleNumber/SingleNumber.js) 
