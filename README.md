@@ -6,3 +6,4 @@
 * [Rotate Array](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/RotateArray/RotateArray.js)
 * [Contains Duplicate](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/ContainsDuplicate/ContainsDuplicate.js) 
 * [Single Number](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/SingleNumber/SingleNumber.js) 
+* [Intersection of Two Arrays II](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/IntersectionOfTwoArrays/IntersectionOfTwoArrays.js)
