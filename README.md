@@ -13,3 +13,4 @@
 
 [**STRING**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/String)
 * [Reverse String](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/String/ReverseString/ReverseString.js)
+* [Reverse Integer](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/String/ReverseInteger/ReverseInteger.js)
