@@ -19,3 +19,6 @@
 
 [**LINKED LIST**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/LinkedList)
 * [Delete Node in a Linked List](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/LinkedList/DeleteNodeInLinkedList/DeleteNodeInLinkedList.js)
+
+[**Sorting And Searching**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/SortingAndSearching)
+* [Merge Sorted Array](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/SortingAndSearching/MergeSortedArray/MergeSortedArray.js)
