@@ -22,4 +22,7 @@
 
 [**Sorting And Searching**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/SortingAndSearching)
 * [Merge Sorted Array](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/SortingAndSearching/MergeSortedArray/MergeSortedArray.js)
-* [First Bad Version](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/SortingAndSearching/FirstBadVersion/FirstBadVersion.js)
+* [First Bad Version](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/SortingAndSearching/FirstBadVersion/FirstBadVersion.js)  
+
+[**Math**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/Math)
+* [Fizz Buzz](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Math/FizzBuzz/FizzBuzz.js)  
