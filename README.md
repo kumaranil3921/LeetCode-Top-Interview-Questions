@@ -11,6 +11,7 @@
 * [Move Zeroes](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/MoveZeroes/MoveZeroes.js)
 * [Two Sum](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/TwoSum/TwoSum.js)  
 * [Valid Sudoku](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/ValidSudoku/ValidSudoku.js)  
+* [Rotate Image](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Array/RotateImage/RotateImage.js)  
 
 [**STRING**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/String)
 * [Reverse String](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/String/ReverseString/ReverseString.js)
