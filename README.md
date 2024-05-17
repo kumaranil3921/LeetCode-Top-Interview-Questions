@@ -18,6 +18,7 @@
 * [Reverse Integer](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/String/ReverseInteger/ReverseInteger.js)
 * [First Unique Character in a String](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/String/FirstUniqueCharacterInString/FirstUniqueCharacterInString.js)
 * [Valid Anagram](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/String/ValidAnagram/ValidAnagram.js)
+* [Valid Palindrome](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/String/ValidPalindrome/ValidPalindrome.js)
 
 [**LINKED LIST**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/LinkedList)
 * [Delete Node in a Linked List](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/LinkedList/DeleteNodeInLinkedList/DeleteNodeInLinkedList.js)
