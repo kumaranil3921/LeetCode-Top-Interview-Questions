@@ -32,3 +32,6 @@
 
 [**Math**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/Math)
 * [Fizz Buzz](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Math/FizzBuzz/FizzBuzz.js)  
+
+[**Others**](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/tree/main/Math)
+* [Valid Parentheses](https://github.com/kumaranil3921/LeetCode-Top-Interview-Questions/blob/main/Others/ValidParentheses/ValidParentheses.js)  
